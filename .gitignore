@@ -1,0 +1,25 @@
+node_modules
+dist
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+env/
+.venv/
+model_artifacts/
+*.pkl
+*.model
+
+# Java / Spring Boot
+backend/target/
+*.class
+*.log
+.settings/
+.classpath
+.project
+.idea/
+*.iml
